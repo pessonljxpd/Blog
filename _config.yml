@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /Blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -62,7 +62,7 @@ nav:
     url: navigations/contact.html
   - text: 友情链接
     url: navigations/links.html
-
+    
 #Author config
 author:
     name: ADark
@@ -110,20 +110,20 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: ADark
+  id: ADark0915
 
 
 #################################### global configure #######################################
 
 username: pessonljxpd
-baseurl: /StrayBirds
+baseurl: /Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
-disqusname: ADark
+disqusname: ADark0915
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
