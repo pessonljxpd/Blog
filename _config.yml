@@ -110,13 +110,13 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: ADark
 
 
 #################################### global configure #######################################
 
 username: pessonljxpd
-baseurl: /StrayBirds
+baseurl: /ADark
 markdown: redcarpet
 safe: false
 highlighter: pygments
