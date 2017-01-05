@@ -78,12 +78,8 @@ follow:
     url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com
-  - class: icon-renren
-    url: http://renren.com
   - class: icon-github-alt
     url: http://github.com
-  - class: icon-twitter
-    url: http://twitter.com
   - class: icon-google-plus
     url: http://google.com
 
@@ -108,7 +104,7 @@ customLinks:
 
 #comment config
 disqus:
-  config: true
+  config: false
   id: adark0915
 
 
