@@ -30,7 +30,6 @@ category: 技术
 
 其中 `layout` 表示布局，不用改变，`title` 表示文章题目，`comments` 表示是否要开户评论。
 
-![create_post](/images/create_post.gif)
 
 ## 感谢
 
