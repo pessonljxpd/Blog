@@ -1,78 +1,7 @@
-StrayBirds
-==========
+Blog
+====
 
 基于 GitHub Pages 搭建的极简博客，所有操作都可以直接通过浏览器完成。
-
-## 示例
-
-可以通过访问 [StrayBirds](http://minixalpha.github.io/StrayBirds/) 看到最终
-的效果，下面是截图:
-
-![ui-demo](/images/ui_demo.png)
-
-## 教程
-
-### 使用方法
-
-1. 注册 GitHub，得到用户名，例如 minixbeta
-2. 到 [StrayBirds](https://github.com/minixalpha/StrayBirds) 页面，单击右上
-角的 Fork
-3. 到你 Fork 后的项目中，将 `_config.yml` 中的 username 修改为你的用户名 minixbeta
-4. 访问你的博客 http://minixbeta.github.io/StrayBirds/
-
-![create_project](/images/create_project.gif)
-
-**注意如果你是第一次使用 GitHub Pages，可能不会马上生效，等一段时间即可**
-
-**按照配置中说的方法修改项目名称可能会加快这一进程**
-
-### 配置
-
-* 修改主题
-
-在 `_confg.yml` 下修改 theme 的值。
-
-**注意修改主题后，并不会马上生效，GitHub 还要反应一段时间，所以请耐心等待**
-
-**修改主题后, 按照配置中说的方法修改项目名称可能会加快这一进程**
-
-可选主题包括：
-
-- hack
-	![hack-demo](/images/hack-demo.png)
-- leap-day
-	![leap-day-demo](/images/leap-day-demo.png)
-- merlot
-	![merlot-demo](/images/merlot-demo.png)
-- midnight
-	![midnight-demo](/images/midnight-demo.png)
-- minimal
-	![minimal-demo](/images/minimal-demo.png)
-- modernist
-	![modernist-demo](/images/modernist-demo.png)
-- slate
-	![slate-demo](/images/slate-demo.png)
-- time-machine
-	![time-machine-demo](/images/time-machine-demo.png) 
-- kunka
-	![kunka-demo](/images/kunka-demo.png)
-
-* 修改项目名
-
-例如将 StrayBirds 修改为 blog，那么你需要做的是
-
-1. 在项目的 Setting 中将 Repository name 从 StrayBirds 修改为 blog
-2. 将 `_config.yml` 中的 baseurl 修改为 /blog
-3. 通过 http://minixbeta.github.io/blog/ 来访问你的新博客
-
-![create_post](/images/change_project_name.gif)
-
-
-* 修改评论系统用户名
-
-我们的评论系统使用的是 [Disqus](https://disqus.com/)，如果你想在这份博客模板中使用，需要先去注册一下，然后得到一个用户名，例如 minixalpha。然后在 `_config.yml` 中将 disqusname 修改为 minixalpha。
-
-**千万注意: 如果你开启评论系统一定要修改这个值，不然就评论到我的评论系统中去了**
 
 ### 添加文章
 
@@ -104,6 +33,9 @@ category: 技术
 ![create_post](/images/create_post.gif)
 
 ## 感谢
+
+Thanks to authors of the repository:
+* [StrayBrids](https://github.com/minixalpha/StrayBirds)
 
 Thanks to authors of the themes:
 
