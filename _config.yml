@@ -90,21 +90,23 @@ customLinks:
       url: http://www.imooc.com/
     - text: FreecodeCamp
       url: https://freecodecamp.cn/
+      
     message: 编程学习
+    
   - item:
     - text: 即时通讯
       url: http://www.52im.net/
     - text: Dagger2入门
       url: http://blog.csdn.net/duo2005duo/article/month/2016/02
-    - text: jQuery
-      url: http://jquery.com/
+
     message: 技术专栏
+    
   - item:
     - text: 移动端开发免费API
       url: https://bbs.freecodecamp.cn/topic/114/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E5%85%8D%E8%B4%B9%E6%94%B6%E8%B4%B9api%E6%94%B6%E8%97%8F
-    - text: jQuery
-      url: http://jquery.com/
+      
     message: 项目资源
+    
 #comment config
 disqus:
   config: false
