@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: ADark的博客
 description: 你在玩弄时间的时候，时间也在玩弄你
-theme: kunka
+theme: leap-day
 disqusname: adark0915
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
